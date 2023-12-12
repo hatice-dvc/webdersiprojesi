@@ -38,7 +38,7 @@
       <div class="additional-options">
         <p class="before-after-style">
           ------------------------------- Diğer Seçenekler
-          ---------------------------
+          ----------------------------
         </p>
         <!-- Buraya istediğiniz ekstra seçenekleri ekleyebilirsiniz -->
       </div>
